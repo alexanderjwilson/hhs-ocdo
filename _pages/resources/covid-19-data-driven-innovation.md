@@ -7,6 +7,8 @@ anchors:
   - name: COVID-19 Diagnostics Design-a-thon
   - name: COVID-19 Open Data Roundtables
 ---
+
+
 # COVID-19 Data-Driven Innovation
 
 <i>Note: Please visit the [CDC’s website on COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/index.html) for the most up-to-date information and COVID-19 guidance.</i>
